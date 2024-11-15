@@ -9,7 +9,7 @@
 Run `build_ros2.sh` for the first build. It correctly builds the Livox package.
 
 
-## Launch
+### Run
 ```bash
 ros2 launch livox_ros_driver2 msg_MID360_launch.py
 
