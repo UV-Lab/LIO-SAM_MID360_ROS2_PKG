@@ -13,7 +13,6 @@ sudo apt install -y ros-humble-perception-pcl \
 sudo add-apt-repository ppa:borglab/gtsam-release-4.1
 sudo apt install -y libgtsam-dev libgtsam-unstable-dev
 ```
-We requried a livox MID360 Lidar.
 
 ### Build
 Run `build_ros2.sh` for the first build. It correctly builds the Livox package.
