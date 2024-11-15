@@ -1,0 +1,3 @@
+[submodule "ros2/src/LIO-SAM_MID360_ROS2"]
+	path = ros2/src/LIO-SAM_MID360_ROS2
+	url = https://github.com/UV-Lab/LIO-SAM_MID360_ROS2.git
